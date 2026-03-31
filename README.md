@@ -8,4 +8,3 @@ Ahora, lo subimos a Github.
 
 1. Esta es una lista numerada
 2. Este es un segundo elemento
-3. Otro item.
