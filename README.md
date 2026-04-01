@@ -1,5 +1,5 @@
 # Hola!
-## Esto es un repositorio de ejemplo para los chicos de intro
+## Esto es un repositorio de ejemplo para lxs chicxs de intro
 Ahora, lo subimos a Github.
 
 * Hola esta es una lista
